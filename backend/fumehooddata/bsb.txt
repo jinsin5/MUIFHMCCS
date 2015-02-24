@@ -1,0 +1,2 @@
+A201flow | A201alarm | A201sash | A202flow | A202alarm | A202flow | 301flow | 301alarm | 301sash
+66.7 | 0 | 0 | 55.7 | 0 | 1 | 0 | 1 | 0
